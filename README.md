@@ -18,4 +18,6 @@ encontraras de todo tipo de servicios para tu comodida como empresa
 * Talleres 
 * se dan cursos para docentes que requieran las TIC
 
+## Aquellas que requiran los cursos deben proveer los salones de computo
+
 
