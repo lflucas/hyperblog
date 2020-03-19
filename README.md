@@ -1,5 +1,4 @@
-# Hyperblog 
-:tw-2764: :tw-1f4bb:
+# Hyperblog
 Este es un blog para entender el funcionamiento de Git y Github
 funcionando en [Citler S.A.S](https://citelersas.com )
 by [platizi](https://platzi.com)
