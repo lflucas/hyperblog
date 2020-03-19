@@ -16,5 +16,6 @@ encontraras de todo tipo de servicios para tu comodida como empresa
 * Instalacion de equipos de computo
 * capacitación de servicios TIC
 * Talleres 
+* se dan cursos para docentes que requieran las TIC
 
 
